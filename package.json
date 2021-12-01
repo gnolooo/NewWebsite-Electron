@@ -1,0 +1,14 @@
+{
+  "name": "newWebsite",
+  "version": "1.0.0",
+  "description": "Electron app for newWebsite.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "gnolooo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.5.2"
+  }
+}

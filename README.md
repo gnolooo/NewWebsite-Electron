@@ -19,7 +19,7 @@ Install optional dependencies ```electron``` and ```asar```.
 $ npm install asar
 $ npm install -g electron
 ```
-(To install ```electron```, ```npm``` is not the only option, even though it's the fastest way. Actually, some distros (e.g. Arch) have in their repository Electron packages that you can install without relying on ```npm```).
+(To install ```electron```, ```npm``` is not the only option, even though it's the fastest way. Actually, some distros (e.g. Arch) have in their repositories Electron packages that you can install without relying on ```npm```).
 
 Now pack the application in an app.asar file and open it with Electron:
 ```

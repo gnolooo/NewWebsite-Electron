@@ -4,7 +4,7 @@
 ## Instructions
 ### Dependencies
 * ```npm```
-* * ```asar``` (optional; to install it: ```npm install asar``
+* ```asar``` (optional; to install it: ```npm install asar``
 * ```electron``` (optional; to install it: ```npm install -g electron```)
 
 ### Start application from command-line

@@ -4,8 +4,9 @@
 ## Instructions
 ### Dependencies
 * ```npm```
-* ```electron``` (optional)
-* ```asar``` (optional; to install it: ```npm install asar```)
+* * ```asar``` (optional; to install it: ```npm install asar``
+* ```electron``` (optional; to install it: ```npm install -g electron```)
+
 ### Start application from command-line
 Git clone the repository and start the application inside it.
 ```
